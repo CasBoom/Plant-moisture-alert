@@ -8,5 +8,5 @@ Connect the LED's to D2, D3 and D4. Make sure the negative sides of all LED's ar
 Connect your moisture sensor to the arduino and use the serial plotter to adjust the values (green, yellow, red) to suit your needs.
 The amount of Ohm needed is dependent on the part you use, use common sense. 
 
-I am not liable for damages to equipment, people or anything.
-Code is free to use, no strings attached.
+Things may not work.
+Code is free to use.
